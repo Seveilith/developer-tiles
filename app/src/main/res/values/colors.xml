@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#111213</color>
+    <color name="colorPrimaryDark">#141517</color>
+    <color name="colorAccent">@color/floating_action_menu_normal_color</color>
+
+    <color name="qsTileTintInactive">#4DFFFFFF</color>
+
+    <color name="backgroundColor">#212026</color>
+
+    <color name="floating_action_menu_normal_color">#2D9CF4</color>
+    <color name="floating_action_menu_pressed_color">#3F97DB</color>
+
+</resources>

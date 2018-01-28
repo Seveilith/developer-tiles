@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Developer Tiles</string>
+    <string name="app_name_abbreviated">Developer Tiles</string>
+
+    <string name="welcome_screen_header">Welcome!</string>
+    <string name="welcome_screen_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Donec posuere rutrum convallis. Proin elementum maximus diam. Curabitur pulvinar enim non nulla tristique ultricies.
+        Cras tristique eu dolor at feugiat.</string>
+
+    <string name="welcome_screen_play_store_button">Google Play Store page</string>
+    <string name="welcome_screen_migrate_button">Migrate to system app</string>
+
+    <string name="settings_menu_uninstall_system_app">Uninstall</string>
+
+    <!-- Uninstall dialog -->
+    <string name="uninstall_dialog_title">Uninstall</string>
+    <string name="uninstall_dialog_message">Do you want to uninstall the app completely, or transfer it back to a user app?</string>
+    <string name="uninstall_dialog_positive_action">@string/uninstall_dialog_title</string>
+    <string name="uninstall_dialog_negative_action">User app</string>
+
+    <!-- Snackbar -->
+    <string name="migration_complete_snackbar_message">Migration complete! Reboot your device in order for the changes to take effect. Please note that the app will not be usable until after that point.</string>
+    <string name="uninstall_complete_snackbar_message">Uninstall complete! Reboot your device in order for the changes to take effect.</string>
+    <string name="not_system_app_snackbar_message_1">The tile for</string>
+    <string name="not_system_app_snackbar_message_2">cannot be used until you convert the app to a system app!</string>
+
+    <!-- Quick Settings tile description -->
+    <string name="tile_description">Dev. Quick Settings</string>
+
+    <!-- ADB tile -->
+    <string name="tile_enable_adb">Enable ADB</string>
+
+    <!-- ADB tile -->
+    <string name="tile_use_cool_color_temp">Use cool color temp.</string>
+    <string name="color_temperature_toast">To apply color change, turn off screen</string>
+
+    <!-- Keep screen on tile -->
+    <string name="tile_keep_screen_on">Keep screen on</string>
+
+</resources>
